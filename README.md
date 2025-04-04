@@ -1,4 +1,4 @@
-# QMobile
+# PQMobile
 
 A quantum-safe file encryption mobile app built with Expo and React Native.
 
